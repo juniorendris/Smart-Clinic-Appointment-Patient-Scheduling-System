@@ -17,17 +17,3 @@ The Smart Clinic Appointment and Patient Scheduling System is a full-scale softw
 
 ---
 
-## 3. System Architecture & UML Models
-All formal diagrams are stored in the `/docs` directory. Below is the system blueprint mapping:
-
-### **Use Case Diagram**
-![soon]Use Case Diagram](docs/use_case_diagram.png)
-
-### **Behavioral Activity Diagram**
-![soon](docs/activity_diagram.png)
-
-### **System Sequence Diagram**
-![soon](docs/sequence_diagram.png)
-
-### **Detailed Class Diagram**
-![soon](docs/class_diagram.png)
