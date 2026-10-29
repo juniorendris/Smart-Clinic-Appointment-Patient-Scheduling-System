@@ -9,7 +9,7 @@ The Smart Clinic Appointment and Patient Scheduling System is a full-scale softw
 * **Redwan Seid** – 1797/17
 * **Mohammed Seid** – 1691/17   Max855825
 * **Seblewongel G/michael** – 0568/17
-* **Umeymah Mohammed** – 0659/17
+* **Umeymah Muhammed** – 0659/17  Umeyma-20
 
 **Course:** Software Engineering Tools and Practice (SEng5331)  
 **Department of Software Engineering, Kombolcha Institute of Technology, Wollo University**  
