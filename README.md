@@ -5,7 +5,7 @@ The Smart Clinic Appointment and Patient Scheduling System is a full-scale softw
 
 ## 2. Group Members & Student IDs
 * **Mohammed Endris (Repo Owner & Project Manager)** – 3706/17
-* **Ahmed Misbah** – 0852/17
+* **Ahmed Misbah** – 0852/17  Strategist-7
 * **Redwan Seid** – 1797/17
 * **Mohammed Seid** – 1691/17   Max855825
 * **Seblewongel G/michael** – 0568/17
