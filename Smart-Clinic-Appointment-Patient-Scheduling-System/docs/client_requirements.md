@@ -53,7 +53,7 @@
 
 ### 1.5 Access Control and Privacy
 
-| ID | Requirement |
+| ID | Requirement |B5C5-194B
 |---|---|
 | PAT-30 | The system shall prevent patients from accessing other patients' private information. |
 | PAT-31 | The system shall allow patients to access only their own appointment records. |
